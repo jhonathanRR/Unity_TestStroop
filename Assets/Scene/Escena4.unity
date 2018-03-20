@@ -416,7 +416,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: AZUL
+  m_Text: PIEL
 --- !u!222 &636694529
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -795,7 +795,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.83823526, g: 0.10477941, b: 0.10477941, a: 1}
+  m_Color: {r: 0.19077079, g: 0.83823526, b: 0.10477941, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -824,6 +824,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1853280493}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b7c5a00dc3e95f541975fb7c62635147, type: 3}
+  m_Script: {fileID: 11500000, guid: ac8da78b47074f14b9a11c04ccf9093e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
