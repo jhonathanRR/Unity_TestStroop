@@ -58,6 +58,7 @@
      <Compile Include="Assets\Script\ScriptTestStroop\CambiaPalabra5.cs" />
      <Compile Include="Assets\Script\ScriptTestStroop\CambiaPalabra6.cs" />
      <Compile Include="Assets\Script\ScriptTestStroop\CambiaPalabra7.cs" />
+     <Compile Include="Assets\Script\ScriptTestStroop\CambiaPalabra8.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
