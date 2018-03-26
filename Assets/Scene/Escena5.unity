@@ -230,7 +230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0236e1ab26fb01d4b86c29f7c92f7280, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 3
+  time: 2
   UIText: {fileID: 20043016}
 --- !u!114 &20043016 stripped
 MonoBehaviour:
@@ -523,7 +523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.8921519, g: 0.17852509, b: 0.9338235, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1032,7 +1032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9868154, g: 1, b: 0.04411763, a: 1}
+  m_Color: {r: 1, g: 1, b: 0.99994594, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:

@@ -14,7 +14,7 @@ using UnityEngine.SceneManagement;
 /// 
 public class CambiaPalabra1 : MonoBehaviour {
 
-	public float time=3;
+	public float time=2;
 	public Text UIText;
 
 	// Use this forinitialization
